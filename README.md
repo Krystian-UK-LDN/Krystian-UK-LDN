@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Krystian-UK-LDN
-- 👀 I’m interested in coding, finance, reading, public speaking, working out and Shiba inus
+- 👀 I’m interested in coding, music & entertainment business, finance, reading and public speaking
 - 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on code reviews 
 - 📫 How to reach me private message or email
